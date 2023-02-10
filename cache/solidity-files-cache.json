@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/ajlaherenda/blockchain-project/HappyChildhood-contracts/contracts/HappyChildhood.sol": {
+      "lastModificationDate": 1675875841872,
+      "contentHash": "1e47dd377d3fc51b64fc5c4e896c64dd",
+      "sourceName": "contracts/HappyChildhood.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HappyChildhood"
+      ]
+    }
+  }
+}
