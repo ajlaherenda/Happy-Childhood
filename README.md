@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Happy Childhood Project
+This project, aims to tackle practices and implement materials tought as part of the Blockchain Fundamentals course, by creating a smart contract used by a particular and hypoteticall children's organization, which does funding(including withdrawal of funds) using ETH.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The web3 application can be found on the link: https://happychildhood.ajlaherenda.repl.co/
 
-Try running some of the following tasks:
+Interactable only with the Metamask extension and Goerli ETH(network id 5).
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Presentation URL: https://www.canva.com/design/DAFaKTGnvWY/MQoA7IUmyL8FTZ_v__EkZw/edit 
